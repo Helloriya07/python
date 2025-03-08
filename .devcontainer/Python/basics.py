@@ -22,10 +22,11 @@ we can run on any system which have PVM)
  4) Python Virtual machine(PVM)
  * Run time Engine
  * Code loop to iterate byte code
- * Also known as python interpreter
+ * Also known as python interpreter 
 
  5) byte code is not machine code!!
- * python specific interpretation
- cpython,jython,IronPython,Stackless,PyPy (Standard implementation)
+ -- machine code is direct instruction to hardware ..
+ *  byte code is python specific interpretation
+    cpython,jython,IronPython,Stackless,PyPy (Standard implementation)
 
  """
