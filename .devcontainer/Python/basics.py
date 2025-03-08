@@ -20,7 +20,12 @@ we can run on any system which have PVM)
  -- works only for imported files
  
  4) Python Virtual machine(PVM)
- * 
+ * Run time Engine
+ * Code loop to iterate byte code
+ * Also known as python interpreter
 
+ 5) byte code is not machine code!!
+ * python specific interpretation
+ cpython,jython,IronPython,Stackless,PyPy (Standard implementation)
 
-"""
+ """
